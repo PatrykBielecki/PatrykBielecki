@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patryk Bielecki
-- 👀 I’m interested in playing chess, programming, web development, ping-pong and cycling.
+- 👀 I’m interested in playing chess, programming and web development.
 - 🌱 I’m currently learning TensorFlow and everything related to Machine Learning
 - 📫 How to reach me:
 -     bielecki.biz@gmail.com
